@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Artboard_4">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_4" data-name="Artboard – 4" clip-path="url(#clip-Artboard_4)">
+    <g id="Group_17564" data-name="Group 17564" transform="translate(19737 -1053.581)">
+      <g id="hospital-bed_4_" data-name="hospital-bed(4)" transform="translate(-19736 1056.581)">
+        <path id="Path_3354" data-name="Path 3354" d="M156.331,17.5a4.211,4.211,0,1,0,4.211,4.211A4.216,4.216,0,0,0,156.331,17.5Zm1.576,4.819h-.968v.968a.608.608,0,1,1-1.216,0v-.968h-.968a.608.608,0,0,1,0-1.216h.968v-.968a.608.608,0,1,1,1.216,0V21.1h.968a.608.608,0,1,1,0,1.216Z" transform="translate(-140.994 -17.5)" fill="#3f5078"/>
+        <path id="Path_3355" data-name="Path 3355" d="M1.758,179.249A1.758,1.758,0,0,0,0,181.007V196.9a.824.824,0,0,0,.824.824H2.692a.824.824,0,0,0,.824-.824v-15.89A1.758,1.758,0,0,0,1.758,179.249Z" transform="translate(0 -171.984)" fill="#3f5078"/>
+        <path id="Path_3356" data-name="Path 3356" d="M453.758,229.249A1.758,1.758,0,0,0,452,231.007v12.961a.824.824,0,0,0,.824.824h1.868a.824.824,0,0,0,.824-.824V231.007A1.758,1.758,0,0,0,453.758,229.249Z" transform="translate(-425.515 -219.054)" fill="#3f5078"/>
+        <g id="Group_17556" data-name="Group 17556" transform="translate(5.274 19.292)">
+          <path id="Path_3357" data-name="Path 3357" d="M90,384.5h19.454v3.809H90Z" transform="translate(-90 -384.5)" fill="#3f5078"/>
+        </g>
+        <g id="Group_17557" data-name="Group 17557" transform="translate(13.021 13.725)">
+          <path id="Path_3358" data-name="Path 3358" d="M233.917,289.5v3.809H222.388a15.83,15.83,0,0,0-.178-3.809Z" transform="translate(-222.21 -289.5)" fill="#3f5078"/>
+        </g>
+        <g id="Group_17558" data-name="Group 17558" transform="translate(5.274 9.316)">
+          <path id="Path_3359" data-name="Path 3359" d="M96.167,220.326v2.142H90V214.25a6.078,6.078,0,0,1,6.167,6.076Z" transform="translate(-90 -214.25)" fill="#3f5078"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

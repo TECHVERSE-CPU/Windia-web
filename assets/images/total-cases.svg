@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.673" height="40.673" viewBox="0 0 40.673 40.673">
+  <g id="Group_17052" data-name="Group 17052" transform="translate(-1604 -217.664)">
+    <path id="Path_79" data-name="Path 79" d="M20.336,0A20.336,20.336,0,1,1,0,20.336,20.336,20.336,0,0,1,20.336,0Z" transform="translate(1604 217.664)" fill="#ff807d"/>
+    <g id="hospital" transform="translate(1614 227.664)">
+      <path id="Path_3" data-name="Path 3" d="M11.25,21.375h1.333v1.333H11.25Z" transform="translate(-5.25 -9.375)" fill="#fff"/>
+      <path id="Path_4" data-name="Path 4" d="M16.875,21.375h1.333v1.333H16.875Z" transform="translate(-7.542 -9.375)" fill="#fff"/>
+      <path id="Path_5" data-name="Path 5" d="M22.5,21.375h1.333v1.333H22.5Z" transform="translate(-9.833 -9.375)" fill="#fff"/>
+      <path id="Path_6" data-name="Path 6" d="M18.792,19.792V4.125h-3v-3H6.458v3h-3V19.792H1.125v1.333h20V19.792Zm-11-17.333h6.667V9.125H7.792Zm9.667,17.333H11.792V17.125H10.458v2.667H4.792V5.459H6.459v5h9.333v-5h1.667Z" transform="translate(-1.125 -1.125)" fill="#fff"/>
+      <path id="Path_7" data-name="Path 7" d="M17.292,5.625H15.958V6.958H14.625V8.292h1.333V9.625h1.333V8.292h1.333V6.958H17.292Z" transform="translate(-6.625 -2.958)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

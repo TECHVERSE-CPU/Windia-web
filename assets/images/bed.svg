@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <g id="XMLID_873_" transform="translate(1 1)">
+      <path id="XMLID_951_" d="M2.208,180H0v2.059H4.678Z" transform="translate(0 -175.059)"/>
+      <path id="XMLID_1161_" d="M0,286.647H2.059v2.13a1.235,1.235,0,1,0,.824,0v-.483h8.235v.483a1.235,1.235,0,1,0,.824,0v-2.13H14V285H0Zm11.118.823H2.882v-.823h8.235Z" transform="translate(0 -277.177)"/>
+      <path id="XMLID_1162_" d="M332.471,0H330V2.059a1.237,1.237,0,0,0,.824,1.164v.894h.824V3.223a1.237,1.237,0,0,0,.823-1.164V.824h.824V7h.823V.824h.824V0Z" transform="translate(-320.941)"/>
+      <path id="XMLID_1163_" d="M195.824,196.235a.412.412,0,0,1,.412-.412h.412v.824h.824v-.824h.824v.824h.824v-.824h.412a.412.412,0,0,1,.412.412v.412h.824v-.412A1.237,1.237,0,0,0,199.529,195h-3.294A1.237,1.237,0,0,0,195,196.235v.412h.824Z" transform="translate(-189.647 -189.647)"/>
+    </g>
+  </g>
+</svg>

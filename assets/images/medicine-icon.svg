@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18.018" viewBox="0 0 18 18.018">
+  <g id="drugs" transform="translate(-0.263 0.001)">
+    <g id="Group_2" data-name="Group 2" transform="translate(6.233 -0.001)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+        <path id="Path_12" data-name="Path 12" d="M180.553,1.388a4.759,4.759,0,0,0-6.72,0l-3.918,3.918,4.448,4.448a5.2,5.2,0,0,1,5.429-.814l.761-.831A4.758,4.758,0,0,0,180.553,1.388Z" transform="translate(-169.915 0.001)" fill="#3f5078"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(0.263 6.053)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0)">
+        <path id="Path_13" data-name="Path 13" d="M9.941,176.462l-4.454-4.454-3.834,3.838A4.777,4.777,0,0,0,8.407,182.6l.777-.781a5.2,5.2,0,0,1,.756-5.358Z" transform="translate(-0.263 -172.008)" fill="#3f5078"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(9.815 9.624)">
+      <g id="Group_5" data-name="Group 5">
+        <path id="Path_14" data-name="Path 14" d="M271.7,277.648a4.21,4.21,0,0,0,3.7,4.17v-8.341A4.21,4.21,0,0,0,271.7,277.648Z" transform="translate(-271.703 -273.478)" fill="#3f5078"/>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(14.567 9.624)">
+      <g id="Group_7" data-name="Group 7">
+        <path id="Path_15" data-name="Path 15" d="M406.722,273.478v8.341a4.2,4.2,0,0,0,0-8.341Z" transform="translate(-406.722 -273.478)" fill="#3f5078"/>
+      </g>
+    </g>
+  </g>
+</svg>
